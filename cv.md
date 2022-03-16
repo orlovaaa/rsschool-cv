@@ -47,7 +47,17 @@ console.log(res);
 ******
 Freelance
 
+## Education 
+******
+* **Courses:**
+   + [FreeСodeСamp](https://www.freecodecamp.org/)
+   + [Code-basics](https://ru.code-basics.com/)
+   + [Нетология](https://netology.ru)
+   + [Stepic](https://stepik.org)
+   + [Udemy](https://www.udemy.com/)
 
-
+## English
+******
+Pre-Intermediate
 
 
